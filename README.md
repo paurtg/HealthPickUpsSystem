@@ -1,4 +1,4 @@
-# PickUps System
+# Health PickUps System
 Add this single component to a 3D object that is being used as a main player in your game. This component will record your player's health and will affect it when in contact with  other chosen objects. This will be done by changing a simple UI system attached to the player controller. 
 
 ## Contents
